@@ -1,0 +1,23 @@
+The idea of the game is to participate in and complete a student Appro at a boat cruise on Silja Scalanade - the Queen of the Baltic Sea.
+The player has a total of 40 moves to complete all the checkpoints (rastit) and simultaneously collect all 4 stamps (leima) on his checkpoint map (rastikartta)
+This is a walktrough guide to complete the game as fast as possible (one example of such approach):
+
+1: Get the map as soon as you spawn on the promenade (i.e., type "get map" while at the Promenade")
+2: Examine the map to see what checkpoints and tasks you have to do and in which locations, use the map.png -file for navigation if necessary
+3: Go north to the Karaoke Bar
+4: Get the microphone (i.e., input "get microphone" while at the Karaoke Bar)
+5: Sing Ukko Nooa (i.e., input "sing" while at the Karaoke Bar)
+6: Go west to the Tax-Free shop
+7: Buy souveniers for friends and family (i.e., input "souveniers" while at the Tax-Free shop)
+8: Go south to the casino
+9: Gamble (i.e., play Roulette) until you win (i.e., input "gamble" while at the Casino)
+10: Go east to the Buffet Restaurant
+11: Eat (i.e., input "eat" while at the Buffet Restaurant)
+12: Optional but recommended: Confirm that you have indeed all the stamps collected (i.e., examine the map and verify this)
+13: Go east to the cabin
+14: You have now completed the Appro, congratulations!
+
+There are some other things you can do that are not necessary to complete the appro, such as drink beer that you are carrying, put sample deodorant from Tax-Free on, gamble more than necessary, etc. Explore!
+Furthermore, you can take detours as long as you stay within the limit of 40 moves.
+
+Have fun, sailor!
